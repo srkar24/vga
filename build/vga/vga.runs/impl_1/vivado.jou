@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Mon Mar 13 02:01:09 2023
+# Process ID: 20776
+# Current directory: C:/Users/sw119862/Desktop/ECE524L/sp23-e524-lab7-vga-SrushtiPW/build/vga/vga.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: C:/Users/sw119862/Desktop/ECE524L/sp23-e524-lab7-vga-SrushtiPW/build/vga/vga.runs/impl_1/top.vdi
+# Journal file: C:/Users/sw119862/Desktop/ECE524L/sp23-e524-lab7-vga-SrushtiPW/build/vga/vga.runs/impl_1\vivado.jou
+# Running On: IT-STULOAN-686, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 4, Host memory: 8328 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
